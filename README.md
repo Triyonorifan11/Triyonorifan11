@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi Sobatt 👋
 
-<!--
-**Triyonorifan11/Triyonorifan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Triyonorifan11/Triyonorifan11** Ini repositori & progress belajar bahasa pemrograman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Saya sedang belajar pemrograman di Jurusan Informatika.
+- 🌱 Saya belajar & kuliah di UPN Veteran Jawa Timur Tahun 2020.
+- 👯 Saya masih pemula dan masih perlu belajar pemrograman.
+- 🌱 Saya tertarik dalam dunia Kepramukaan dan Mobile Dev..
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Any question ?
+- 📫 How to reach me: email = kakriyo11@gmail.com
+- 😄 So, Let's make Goal!! bangun wujudkan mimpimu, tidur lanjutkan mimpimu.
+- ⚡ Fun fact: 🔭 Alumni SMA Negeri 1 Ambunten angkatan 2019/2020.
+               🔭 Alumni SMP Negeri 1 Ambunten 2016/2017.
