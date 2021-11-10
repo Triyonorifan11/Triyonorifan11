@@ -6,7 +6,7 @@
 
 - 🔭 Saya sedang belajar pemrograman di Jurusan Informatika.
 - 🌱 Saya belajar & kuliah di UPN Veteran Jawa Timur Tahun 2020.
-- 👯 Saya masih pemula dan masih perlu belajar pemrograman.
+- 👯 Saya masih pemula dan antusias belajar pemrograman.
 - 🌱 Saya tertarik dalam dunia Kepramukaan dan Mobile Dev..
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Any question ?
