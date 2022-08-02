@@ -22,7 +22,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triyonorifan11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img height="162em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Triyonorifan11&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Triyonorifan11&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
