@@ -14,3 +14,7 @@
 - 😄 So, Let's make Goal!! bangun wujudkan mimpimu, tidur lanjutkan mimpimu.
 - ⚡ Fun fact: 🔭 Alumni SMA Negeri 1 Ambunten angkatan 2019/2020.
                🔭 Alumni SMP Negeri 1 Ambunten 2016/2017.
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Triyonorifan11)](https://git.io/streak-stats)
+
