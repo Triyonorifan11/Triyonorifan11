@@ -1,5 +1,5 @@
 # Hello there! 👋
-<hr/>
+
 <b>🧐 About Me</b>
 <p>💻 I am an informatics student from the <b>East Java Veterans National Development University.</b></p>
 <p>📚 I am an <b>independent study student batch 3</> in 2022.</p>
