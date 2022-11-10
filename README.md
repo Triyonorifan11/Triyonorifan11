@@ -2,7 +2,7 @@
 
 ### 🧐 About Me
 <p>💻 I am an informatics student from the <b>East Java Veterans National Development University.</b></p>
-<p>📚 I am an <b>independent study student batch 3</> in 2022. <a target="_blank" href="https://www.dicoding.com/"> <img src="https://img.shields.io/badge/dicoding%20academy-blue?style=for-the-badge&"></a></p>
+<p>📚 I am an <b>independent study student batch 3</> in 2022. <a target="_blank" href="https://www.dicoding.com/users/kak_riyo"> <img src="https://img.shields.io/badge/dicoding%20academy-blue?style=for-the-badge&"></a></p>
 <hr/>
 
 ### 📱 Connect and Contact Me
