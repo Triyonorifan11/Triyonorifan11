@@ -1,11 +1,11 @@
 # Hello there! 👋
 
-<b>🧐 About Me</b>
+### 🧐 About Me
 <p>💻 I am an informatics student from the <b>East Java Veterans National Development University.</b></p>
 <p>📚 I am an <b>independent study student batch 3</> in 2022.</p>
 <hr/>
 
-<b>📱 Contact Me:</b>
+### 📱 Connect and Contact Me
 <div id="header" align="justify">
   <div id="badges">
   <a target="_blank" href="https://web.facebook.com/triyono.rifan.3">
@@ -46,7 +46,7 @@
 
 ### 🏆 My Thropy Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Triyonorifan11&theme=algolia&background=000000">
+  <img src="https://github-profile-trophy.vercel.app/?username=Triyonorifan11&theme=algolia&background=000000&margin-w=40&margin-h=40">
 </div>
 
 <hr/>
